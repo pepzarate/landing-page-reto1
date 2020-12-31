@@ -33,7 +33,7 @@ header{
     width: 100%;
     min-width: 320px;
     height: 373px;
-    background: url("../images/bg-  mobile.png") center/cover no-repeat;
+    background: url("../images/bg-mobile.png") center/cover no-repeat;
     display: flex;
     flex-direction: column;
 }
