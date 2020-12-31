@@ -1,0 +1,44 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url("../images/bg-desktop.png") center/cover no-repeat;
+    background-color: hsl(257, 40%, 49%);
+    position: relative;
+}
+header{
+    background: none;
+}
+
+header .logo{
+    margin-left: 40px;
+}
+
+header .mockups{
+    width: 60%;
+    max-width: 500px;
+    margin: 0 20% 0 40px;
+    padding-bottom: 40px;
+}
+
+.main-container{
+    width: 40%;
+    position: absolute;
+    top: 150px;
+    right: 50px;
+    text-align: justify;
+}
+
+.main-container h1{
+    font-size: 3.5rem;
+    line-height: 4.8rem;
+}
+
+.main-container .register-button{
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
